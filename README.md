@@ -21,6 +21,7 @@
 * При верстке использовал flex-свойствами.
 * <strong>Кроссбраузерность</strong>: для корректной работы с разными браузерами и их версиями код обработан через <a href="https://autoprefixer.github.io/ru/" target="_blank">autoprefixer</a> 
 * <a href="https://cdnjs.com/libraries/normalize" target="_blank">normalize.css</a>
+
 При работе использовались следующие Vanilla JS библиотеки:
 * Календарь на чистом JS <a href="https://mymth.github.io/vanillajs-datepicker/#/" target="_blank">vanillajs-datepicker</a>
 * Выпадающие списки стилизованы благодаря <a href="https://github.com/Choices-js/Choices/blob/master/README.md" target="_blank">Choices/a>
